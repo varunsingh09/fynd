@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "629083356ecbf501d9039b7e"
+  },
+  "name": "Admin",
+  "email": "fynd@gmail.com",
+  "password": "$2b$10$n4MddgNBmjMy1gtaJe1b1OqIbxhOg.oaTvACqGq9.y4UykwMYBsUa",
+  "read": "1",
+  "write": "1",
+  "delete": "1"
+},{
+  "_id": {
+    "$oid": "629083356ecbf501d9039b7f"
+  },
+  "name": "User",
+  "email": "user@ril.com",
+  "password": "$2b$10$n4MddgNBmjMy1gtaJe1b1OqIbxhOg.oaTvACqGq9.y4UykwMYBsUa",
+  "read": "1",
+  "write": "0",
+  "delete": "0"
+}]
